@@ -108,7 +108,6 @@ nav{
 .all-galaxy{
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
 }
 
 .new-galaxy1{
@@ -159,6 +158,12 @@ nav{
 
 .new-galaxy7{
     background-image: url(./images/image\ 14.png);
+    width: 470px;
+    height: 480px;
+}
+
+.new-galaxy7{
+    background-image: url(./images/image\ 15.png);
     width: 470px;
     height: 480px;
 }
